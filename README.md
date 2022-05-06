@@ -22,7 +22,7 @@ i couldnt get to work the hover view icon on the NFT Image...
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [here](https://xtrimxd.github.io/Second-FrontEndMentor-challenge/)
 
 ## My process
 
